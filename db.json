@@ -1,0 +1,20 @@
+{
+  "todos": [
+    {
+      "id": 3,
+      "todo": "Watch some TV shows"
+    },
+    {
+      "todo": "Play Uncharted 4",
+      "id": 5
+    },
+    {
+      "todo": "Play Cyberpunk 2077",
+      "id": 6
+    },
+    {
+      "todo": "Play some Fortnite",
+      "id": 7
+    }
+  ]
+}
